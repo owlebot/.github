@@ -1,8 +1,10 @@
 # Owlebot
 
-This organisation host all the code of the Owlebot app and products.
+This organisation host all the code of the Owlebot app and products.  
 
-Some of it is open source, some of it is private source. if you wish to learn more or even contribute, you can join our discord server where everything happens: https://discord.gg/erdgcEqqtq 
+Some of it is open source, some of it is private source.  
+
+If you wish to learn more or even contribute, you can join our discord server where everything happens: https://discord.gg/erdgcEqqtq 
 
 <!--
 
